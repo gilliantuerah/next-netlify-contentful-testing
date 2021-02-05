@@ -8,7 +8,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Gill's first nextjs</title>
+        <title>Gillll's first nextjs</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
